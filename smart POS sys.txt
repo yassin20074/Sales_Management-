@@ -1,0 +1,12 @@
+Login page
+admin premessions
+user premessions
+static (month/day/week/year)
+math (weight/QTY)
+selling
+pdf receipt 
+print receipt
+add users/admins
+last orders (edit or del if admin/see)
+stock
+expenses 
