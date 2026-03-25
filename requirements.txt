@@ -1,0 +1,5 @@
+kivy
+matplotlib
+kivy-garden.matplotlib
+reportlab
+platform
